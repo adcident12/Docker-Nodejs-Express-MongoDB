@@ -21,6 +21,7 @@
 <p><code>rount:get /getbyid/:id คือ select by id ข้อมูลของไอดีนั้นมาแสดง</code></p>
 <p><img width="1015" alt="screen shot 2562-01-04 at 16 15 20" src="https://user-images.githubusercontent.com/21277486/50680890-f9b4c780-103b-11e9-81a7-8cbc2fbd63ea.png"></p>
 <p><code>rount:post /add คือ insert ข้อมูลลงฐานข้อมูล</code></p>
+<p><img width="1016" alt="screen shot 2562-01-04 at 16 18 37" src="https://user-images.githubusercontent.com/21277486/50681167-11408000-103d-11e9-99fe-610b4e481381.png"></p>
 <p><code>rount:put /update/:id คือ update ข้อมูลของไอดีนั้นลงฐานข้อมูล</code></p>
 <p><code>rount:delete /delete/:id คือ delete ข้อมูลของไอดีนั้นจากฐานข้อมูล</code></p>
 <p>ศึกษาเพิ่มเติมได้จาก</p>
