@@ -14,7 +14,7 @@
 <p>ด้วยคำสั่ง <code>docker start node-dev5</code></p>
 <p>ศึกษาเพิ่มเติมได้จาก</p>
 <p>Credit.....จาก<p>
-<p><a href="https://devahoy.com/posts/restful-api-with-node-js-and-mongodb/">ทำ RESTFul API ด้วย Node.js, Express และ MongoDB</a><p>
-<p><a href="https://devahoy.com/posts/getting-started-with-mongodb/">MongoDB คืออะไร? + สอนวิธีใช้งานเบื้องต้น</a><p>
-<p><a href="http://www.artit-k.com/node-js-docker-container-from-zero-hero/">เขียน Node.js รันใน Docker Container ตั้งแต่ Zero to Hero</a><p>
-<p><a href="https://docs.mongodb.com/manual/reference/method/db.collection.update/">MongoDB Manual</a><p>
+<p><a href="https://devahoy.com/posts/restful-api-with-node-js-and-mongodb/" target="_blank">ทำ RESTFul API ด้วย Node.js, Express และ MongoDB</a><p>
+<p><a href="https://devahoy.com/posts/getting-started-with-mongodb/" target="_blank">MongoDB คืออะไร? + สอนวิธีใช้งานเบื้องต้น</a><p>
+<p><a href="http://www.artit-k.com/node-js-docker-container-from-zero-hero/" target="_blank">เขียน Node.js รันใน Docker Container ตั้งแต่ Zero to Hero</a><p>
+<p><a href="https://docs.mongodb.com/manual/reference/method/db.collection.update/" target="_blank">MongoDB Manual</a><p>
