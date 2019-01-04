@@ -4,11 +4,11 @@
 <p>เปิด Terminal</p>
 <p>ทำการ clone และ เข้าไปใน directory ที่เก็บ file docker-compose.yml</p>
 <p>ใช้คำสั่ง ตามลำดับ</p>
-<p><code style="color:red;">1. docker-compose build<code></p>
-<p><code style="color:red;">2. docker-compose up -d</code></p>
+<p><code>1. docker-compose build<code></p>
+<p><code>2. docker-compose up -d</code></p>
 <p>กรณีไม่สามารถใช้ได้</p>
-<p>ให้ตรวจสอบ services ด้วยคำสั่ง <code style="color:red;">docker ps -a</code></p>
-<p><code style="color:red;">สังเกต service NAMES nod-dev5</code></p>
-<p><code style="color:red;">ถ้า Exit อยู่ให้ start</code></p>
+<p>ให้ตรวจสอบ services ด้วยคำสั่ง <code>docker ps -a</code></p>
+<p><code>สังเกต service NAMES nod-dev5</code></p>
+<p><code>ถ้า Exit อยู่ให้ start</code></p>
 <p>start service ของ nod-dev5</p>
-<p>ด้วยคำสั่ง <code style="color:red;">docker start node-dev5</code></p>
+<p>ด้วยคำสั่ง <code>docker start node-dev5</code></p>
