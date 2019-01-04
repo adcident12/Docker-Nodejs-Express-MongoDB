@@ -6,3 +6,9 @@
 <p>ใช้คำสั่ง ตามลำดับ</p>
 <p>1. docker-compose build</p>
 <p>2. docker-compose up -d</p>
+<p>กรณีไม่สามารถใช้ได้</p>
+<p>ให้ตรวจสอบ services ด้วยคำสั่ง docker ps -a</p>
+<p><code>สังเกต service NAMES nod-dev5</code></p>
+<p><code>ถ้า Exit อยู่ให้ start</code></p>
+<p>start service ของ nod-dev5</p>
+<p>ด้วยคำสั่ง docker start node-dev5</p>
