@@ -23,6 +23,7 @@
 <p><code>rount:post /add คือ insert ข้อมูลลงฐานข้อมูล</code></p>
 <p><img width="1016" alt="screen shot 2562-01-04 at 16 18 37" src="https://user-images.githubusercontent.com/21277486/50681167-11408000-103d-11e9-99fe-610b4e481381.png"></p>
 <p><code>rount:put /update/:id คือ update ข้อมูลของไอดีนั้นลงฐานข้อมูล</code></p>
+<p><img width="1016" alt="screen shot 2562-01-04 at 16 25 30" src="https://user-images.githubusercontent.com/21277486/50681326-aba0c380-103d-11e9-8912-b4cee120a5cb.png"></p>
 <p><code>rount:delete /delete/:id คือ delete ข้อมูลของไอดีนั้นจากฐานข้อมูล</code></p>
 <p>ศึกษาเพิ่มเติมได้จาก</p>
 <p>Credit.....จาก<p>
