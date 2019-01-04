@@ -15,7 +15,7 @@
 <p>ขั้นตอนการทดสอบ API</p>
 <p>ใช้ Postman</p>
 <p><code>rount:get / คือ insert ข้อมูลลงฐานข้อมูลโดยถ้าในฐานข้อมูลว่าง</code></p>
-<p><img width="460" height="300" src="https://drive.google.com/file/d/1noumoZ2SITcN8nHAsnm35zMvBFgARy0a/view?usp=sharing"></p>
+<p><img width="460" height="300" src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjixeK64NPfAhWLLY8KHc3DAesQjRx6BAgBEAU&url=https%3A%2F%2Fwww.getpostman.com%2F&psig=AOvVaw00iMfQs7etyCV4bhmQbWaz&ust=1546678475339260"></p>
 <p><code>rount:get /getall คือ select ข้อมูลทั้งหมดมาแสดง</code></p>
 <p><code>rount:get /getbyid/:id คือ select by id ข้อมูลของไอดีนั้นมาแสดง</code></p>
 <p><code>rount:post /add คือ insert ข้อมูลลงฐานข้อมูล</code></p>
