@@ -12,6 +12,15 @@
 <p><code>ถ้า Exit อยู่ให้ start</code></p>
 <p>start service ของ nod-dev5</p>
 <p>ด้วยคำสั่ง <code>docker start node-dev5</code></p>
+<p>ขั้นตอนการทดสอบ API</p>
+<p>ใช้ Postman</p>
+<p><code>rount:get / คือ insert ข้อมูลลงฐานข้อมูลโดยถ้าในฐานข้อมูลว่าง</code></p>
+<p><img src="https://drive.google.com/file/d/1noumoZ2SITcN8nHAsnm35zMvBFgARy0a/view?usp=sharing" /></p>
+<p><code>rount:get /getall คือ select ข้อมูลทั้งหมดมาแสดง</code></p>
+<p><code>rount:get /getbyid/:id คือ select by id ข้อมูลของไอดีนั้นมาแสดง</code></p>
+<p><code>rount:post /add คือ insert ข้อมูลลงฐานข้อมูล</code></p>
+<p><code>rount:put /update/:id คือ update ข้อมูลของไอดีนั้นลงฐานข้อมูล</code></p>
+<p><code>rount:delete /delete/:id คือ delete ข้อมูลของไอดีนั้นจากฐานข้อมูล</code></p>
 <p>ศึกษาเพิ่มเติมได้จาก</p>
 <p>Credit.....จาก<p>
 <p><a href="https://devahoy.com/posts/restful-api-with-node-js-and-mongodb/" target="_blank">ทำ RESTFul API ด้วย Node.js, Express และ MongoDB</a><p>
