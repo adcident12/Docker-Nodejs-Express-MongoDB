@@ -25,6 +25,7 @@
 <p><code>rount:put /update/:id คือ update ข้อมูลของไอดีนั้นลงฐานข้อมูล</code></p>
 <p><img width="1016" alt="screen shot 2562-01-04 at 16 25 30" src="https://user-images.githubusercontent.com/21277486/50681326-aba0c380-103d-11e9-8912-b4cee120a5cb.png"></p>
 <p><code>rount:delete /delete/:id คือ delete ข้อมูลของไอดีนั้นจากฐานข้อมูล</code></p>
+<p><img width="1007" alt="screen shot 2562-01-04 at 16 29 10" src="https://user-images.githubusercontent.com/21277486/50681389-eb67ab00-103d-11e9-94db-02e678a45f82.png"></p>
 <p>ศึกษาเพิ่มเติมได้จาก</p>
 <p>Credit.....จาก<p>
 <p><a href="https://devahoy.com/posts/restful-api-with-node-js-and-mongodb/" target="_blank">ทำ RESTFul API ด้วย Node.js, Express และ MongoDB</a><p>
