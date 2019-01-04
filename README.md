@@ -4,7 +4,7 @@
 <p>เปิด Terminal</p>
 <p>ทำการ clone และ เข้าไปใน directory ที่เก็บ file docker-compose.yml</p>
 <p>ใช้คำสั่ง ตามลำดับ</p>
-<p><code>1. docker-compose build<code></p>
+<p><code>1. docker-compose build</code></p>
 <p><code>2. docker-compose up -d</code></p>
 <p>กรณีไม่สามารถใช้ได้</p>
 <p>ให้ตรวจสอบ services ด้วยคำสั่ง <code>docker ps -a</code></p>
